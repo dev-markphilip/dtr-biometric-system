@@ -2,6 +2,7 @@
 
 ## Overview
 An enhanced Human Resource Information System integrated with biometric-based Daily Time Record (DTR) capabilities. Designed to automate employee attendance, leave tracking, and HR reporting across university departments.
+<img width="388" height="536" alt="image (1)" src="https://github.com/user-attachments/assets/81169911-3f39-4e3c-acc7-634394c58157" />
 
 ## The Problem
 - Manual DTR encoding led to inaccuracies and payroll processing delays.

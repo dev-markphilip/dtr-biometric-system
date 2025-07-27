@@ -1,23 +1,34 @@
-# Daily Time Record System with Biometric Integration
+# Human Resource Information System (HRIS 2.0) with Biometric Integration
 
 ## Overview
-A web-based employee attendance tracking system integrated with biometric devices. Designed for use across multiple university departments, this system automates Daily Time Record (DTR) management and supports flexible working hours.
+An enhanced Human Resource Information System integrated with biometric-based Daily Time Record (DTR) capabilities. Designed to automate employee attendance, leave tracking, and HR reporting across university departments.
 
-## Tech Stack
-- PHP
-- MySQL
-- JavaScript
-- Bootstrap
-- Biometric Device Integration (ZKTeco SDK)
+## The Problem
+- Manual DTR encoding led to inaccuracies and payroll processing delays.
+- No centralized system for monitoring flexible schedules or OB logs.
+- HR struggled to compile complete leave and attendance reports.
 
-## Features
-- Real-time capture of employee attendance via biometric devices
-- Flexible schedule handling (shifts, holidays, OB logs)
-- Admin dashboard with attendance summaries
-- Exportable reports for HR and payroll use
-- Role-based access control
+## My Solution
+- Developed a web-based HR system with **real-time biometric data sync**.
+- Integrated ZKTeco SDK for capturing time-in/out data from biometric devices.
+- Automated leave computation, including holidays and special schedules.
+- Built dashboards for HR and Finance with exportable summary reports.
 
-## Outcome
-- Streamlined HR attendance tracking
-- Reduced manual DTR encoding by 90%
-- Supported hundreds of users across university offices
+## Key Features
+- Real-time biometric attendance capture  
+- Flexi-schedule and leave management  
+- Holiday and OB log processing logic  
+- Admin dashboards for attendance reports  
+- Role-based access and secure audit trails  
+
+## Tools & Stack
+- **Frontend/UI**: HTML, CSS, Bootstrap  
+- **Backend**: MySQL, PHP  
+- **Device Integration**: ZKTeco SDK  
+- **Deployment**: Local network, XAMPP stack  
+- **Support Tools**: CSV exporter, backup scripts
+
+## Impact
+- Reduced manual encoding workload by 90%  
+- Enabled on-demand attendance reports for payroll and compliance  
+- Improved accuracy of leave tracking and staff evaluation metrics

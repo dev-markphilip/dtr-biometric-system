@@ -33,3 +33,5 @@ An enhanced Human Resource Information System integrated with biometric-based Da
 - Reduced manual encoding workload by 90%  
 - Enabled on-demand attendance reports for payroll and compliance  
 - Improved accuracy of leave tracking and staff evaluation metrics
+
+> **Note**: Source code not uploaded due to company confidentiality.
